@@ -1,0 +1,7 @@
+.form-floating {
+	display: none;
+}
+
+.show-div:checked ~ .form-floating {
+	display: block;
+}
